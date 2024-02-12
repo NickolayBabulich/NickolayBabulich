@@ -23,7 +23,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Nickolay Babulich</h1>
+<h1 align="center">Hi All👋, I'm Nickolay Babulich</h1>
 <h3 align="center">Python developer from Russia</h3>
 
 ###
