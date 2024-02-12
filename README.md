@@ -55,72 +55,58 @@
 <div align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"
-            alt="python logo"/>
-    </a>
+            alt="python logo"/></a>
     <img width="12" />
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"
-            alt="html5 logo" />
-    </a>
+            alt="html5 logo" /></a>
     <img width="12" />
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"
-                alt="css3 logo" />
-    </a>
+                alt="css3 logo" /></a>
     <img width="12" />
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40" alt="django logo" />
-    </a>
+            <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40" alt="django logo" /></a>
     <img width="12" />
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"
-                alt="flask logo" />
-    </a>
+                alt="flask logo" /></a>
     <img width="12" />
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"
-            alt="bootstrap logo" />
-    </a>
+            alt="bootstrap logo" /></a>
     <img width="12" />
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"
-                alt="postgresql logo" />
-    </a>
+                alt="postgresql logo" /></a>
     <img width="12" />
     <a href="https://redis.io" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"
-                alt="redis logo" />
-    </a>
+                alt="redis logo" /></a>
     <img width="12" />
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"
-                alt="nginx logo" />
-    </a>
+                alt="nginx logo" /></a>
     <img width="12" />
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"
-                alt="docker logo" />
-    </a>
+                alt="docker logo" /></a>
     <img width="12" />
     <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40"
-            alt="pycharm logo" />
-    </a>
+            alt="pycharm logo" /></a>
     <img width="12" />
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"
-                alt="git logo" />
-    </a>
+                alt="git logo" /></a>
     <img width="12" />
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"
-                alt="linux logo" />
-    </a>
+                alt="linux logo" /></a>
     <img width="12" />
     <a href="https://postman.com" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40"
-                alt="postman logo" />
-    </a>
+                alt="postman logo" /></a>
     <img width="12" />
 </div>
 
